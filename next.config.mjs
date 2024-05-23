@@ -4,7 +4,7 @@ const nextConfig = {
       ignoreBuildErrors: true,
     },
     images: {
-        domains: [
+        remotePatterns: [
           'uploadthing.com',
           'utfs.io',
           'img.clerk.com',
